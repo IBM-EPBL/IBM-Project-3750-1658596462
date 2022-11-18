@@ -53,11 +53,11 @@ Parkinson Disease is a brain neurological disorder. It leads to shaking of the b
 
 A person diagnosed with Parkinson’s disease can have other symptoms that include-
 
-- Depression
+- Depression.
 
-- Anxiety
+- Anxiety.
 
-- Sleeping, and memory-related issues
+- Sleeping, and memory-related issues.
 
 - Loss of sense of smell along with balance problems.
 
